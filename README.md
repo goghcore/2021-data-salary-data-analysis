@@ -6,10 +6,9 @@ The Annual Global Data Professional Salary Survey conducted in 2019 collected re
 
 The dataset is available in this repository [here](data/original-data/2021-data-professional-salary-survey-responses.xlsx).
 
-_Note: As the population data are estimates, the sum of the numbers from the different age groups may not sum up to the total._
+_Note: The data in the survey was self-reported and may contain biases or errors._
+
 ## Result & Recommendations
-**In response to state risk:** Vulnerable people are at risk of flu-related complications & death. States with large percentages of vulnerable population should be prioritized (e.g. California, Florida, New York).
+The analysis reveals that years of experience with the primary database or in data jobs are not reliable indicators of salary levels. Other factors, such as weekly working hours and number of databases, as well as categorical factors like primary database, job title, and education level, may impact salary. Future analysis should consider these factors to comprehensively assess the various factors that may impact salary.
 
-**Proactive staffing:** To ensure that medical centers have enough staff to handle the increase in patients during the peak months of December through March, the medical staffing agency should start sending staff to medical centers before December, ideally in November.
-
-The Tableau storyboard can be found [here](https://public.tableau.com/app/profile/goghcore/viz/InfluenzaSeasonPreventionStrategy2018/InfluenzaSeasonPreventionStrategy).
+The Tableau storyboard can be found [here]([https://public.tableau.com/app/profile/goghcore/viz/InfluenzaSeasonPreventionStrategy2018/InfluenzaSeasonPreventionStrategy](https://public.tableau.com/app/profile/goghcore/viz/DataProfessionalSalaryAnalysis2019/DataProfessionalSalaryAnalysis).
