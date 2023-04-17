@@ -11,4 +11,4 @@ _Note: The data in the survey was self-reported and may contain biases or errors
 ## Result & Recommendations
 The analysis reveals that years of experience with the primary database or in data jobs are not reliable indicators of salary levels. Other factors, such as weekly working hours and number of databases, as well as categorical factors like primary database, job title, and education level, may impact salary. Future analysis should consider these factors to comprehensively assess the various factors that may impact salary.
 
-The Tableau storyboard can be found [here]([https://public.tableau.com/app/profile/goghcore/viz/InfluenzaSeasonPreventionStrategy2018/InfluenzaSeasonPreventionStrategy](https://public.tableau.com/app/profile/goghcore/viz/DataProfessionalSalaryAnalysis2019/DataProfessionalSalaryAnalysis).
+The Tableau storyboard can be found [here](https://public.tableau.com/app/profile/goghcore/viz/DataProfessionalSalaryAnalysis2019/DataProfessionalSalaryAnalysis).
