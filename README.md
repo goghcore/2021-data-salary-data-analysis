@@ -10,7 +10,7 @@ The dataset is available in this repository [here](data/original-data/2021-data-
 
 _Note: The data in the survey was self-reported and may contain biases or errors._
 
-## Method
+## Methods
 This analysis employs a combination of descriptive analysis, linear regression, and clustering techniques to gain insights into the factors influencing data professional salaries.
 
 Descriptive analysis: The data is examined using descriptive statistics to identify factors such as weekly working hours, number of databases, primary database, job title, and education level that may impact salary levels.
