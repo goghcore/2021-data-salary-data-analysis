@@ -24,7 +24,7 @@ This analysis employs a combination of descriptive analysis, linear regression, 
 ## Tools
 The tools used in this project include Excel, Python and Tableau.
 
-Excel is utilized for data organization and storage of query outputs. Python libraries such as numpy, pandas, matplotlib, seaborn, and scikit-learn are employed for data manipulation, analysis, visualization, and regression modeling. Tableau is utilized to create a storyboard with interactive visualizations for effective communication of the findings.
+Excel is utilized for data organization and storage of query outputs. Python libraries such as numpy, pandas, matplotlib, seaborn, and scikit-learn are employed for data manipulation, analysis, visualization, and regression modeling. A storyboard with interactive visualizations for effective communication of the findings is crafted with Tableau.
 
 ## Result & Recommendations
 The analysis reveals that years of experience with the primary database or in data jobs are not reliable indicators of salary levels. Other factors, such as weekly working hours and number of databases, as well as categorical factors like primary database, job title, and education level, may impact salary. Future analysis should consider these factors to comprehensively assess the various factors that may impact salary.
